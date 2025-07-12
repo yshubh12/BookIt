@@ -35,7 +35,7 @@
 
 
 git clone https://github.com/yourusername/BookIt.git
-cd tailortalk
+cd bookit
 
 ### 2. Set up a virtual environment
 
